@@ -96,5 +96,17 @@ body{
     display: none;
 }
 
-@media screen and (max-width: 600px)
+@media screen and (max-width: 320px) {
+    *{
+        box-sizing: content-box;
+    }
+    .search input{
+        height: 40px;
+    }
+    .search button{
+        border-radius: 100%;
+        width: 100px;
+        height: 60px;
+    }
+}
     
