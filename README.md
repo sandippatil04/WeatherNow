@@ -1,2 +1,2 @@
 # WeatherNow
-WeatherNow is APIs based weather application
+WeatherNow is weather application
